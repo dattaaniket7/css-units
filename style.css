@@ -4,10 +4,18 @@
     box-sizing: border-box;
 }
 
-:root {
-    font-size: 62.5%;
+.px {
+    font-size: 32px;
+    margin: 5rem;
+    background: lightblue;
 }
 
-p {
-    font-size: 3rem;
+.px2 {
+    margin-top: 6rem;
 }
+
+/* .rem {
+    font-size: 2rem;
+    padding: 1rem;
+    background: lightcoral;
+} */
