@@ -5,6 +5,19 @@
 }
 
 div {
+    width: 4rem;
+    height: 2rem;
+    background: lightblue;
+    width: 50%;
+}
+
+.box {
+    background: lightcoral;
+    width: 100vw;
+}
+
+/* 
+div {
     font-size: 2rem;
     margin: 0% 5%;
     min-height: 100vh;
@@ -17,7 +30,7 @@ p {
 
 img {
     width: 100%;
-}
+} */
 
 /* .px {
     padding: 5rem;
