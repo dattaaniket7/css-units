@@ -13,6 +13,10 @@ p {
     max-width: 50ch;
 }
 
+img {
+    width: 100%;
+}
+
 /* .px {
     padding: 5rem;
     font-size: 0.5em;
