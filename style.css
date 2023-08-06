@@ -4,15 +4,19 @@
     box-sizing: border-box;
 }
 
+div {
+    font-size: 2rem;
+}
+
 .px {
-    font-size: 32px;
-    margin: 5rem;
+    padding: 5rem;
+    font-size: 0.5em;
     background: lightblue;
 }
 
-.px2 {
+/* .px2 {
     margin-top: 6rem;
-}
+} */
 
 /* .rem {
     font-size: 2rem;
